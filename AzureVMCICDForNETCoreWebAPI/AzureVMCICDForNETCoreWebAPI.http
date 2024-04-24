@@ -1,0 +1,6 @@
+@AzureVMCICDForNETCoreWebAPI_HostAddress = http://localhost:5140
+
+GET {{AzureVMCICDForNETCoreWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
